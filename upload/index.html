@@ -40,8 +40,15 @@ cut to extract the usernames, grep -v to exclude the header line, and sort -u to
 <button onclick="myFunction('b2')" class="expandable-button">Script 002</button>
 <div id="b2" class="expandable-content">
 <pre class="code-snippet"><code>
-# This is a demo script 2
-echo "Hello, world!"
+
+Prints the username of the current user.
+Prints a message indicating that a new file is being created along with its backup.
+Creates a new file named newfile.txt using the touch command.
+Creates a backup of newfile.txt named newfile_backup.txt using the cp command.
+Prints a message indicating that the operation is done and the new file contains system information.
+Writes the operating system information to newfile.txt using the uname -a command.
+Appends the CPU information to newfile.txt using the lscpu command.
+Appends the memory information to newfile.txt using the free -h command.
 </code></pre>
 </div>
 
