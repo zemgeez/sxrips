@@ -1,3 +1,18 @@
 # Scripts
-learning bash 
-This will be a Indicator of my regular progress helpful and fun.
+This will be a Indicator of my regular progress .
+.
+.
+.
+.
+---
+<details>
+
+script001
+script002
+
+---
+</details>
+
+
+
+# Description
